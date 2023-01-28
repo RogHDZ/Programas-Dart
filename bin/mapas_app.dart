@@ -89,4 +89,15 @@ void main(List<String> arguments) {
     ..sort((e1, e2) => e1.value.compareTo(e2.value)));
   print('Frutas ordenadas por valor: $frutasOrdenadas');
 
+  
+
+
+
+
+
+
+
+
+
+
 }
